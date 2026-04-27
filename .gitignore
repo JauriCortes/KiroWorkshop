@@ -52,4 +52,4 @@ pip-delete-this-directory.txt
 htmlcov/
 *.egg-info/
 dist/
-build/
+build/.claude/
